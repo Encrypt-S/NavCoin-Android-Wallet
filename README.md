@@ -226,3 +226,7 @@ New in version 1.4.0
 - Fixed camera crash in low resolution screens
 - Able to install app in external storage
 - ... and many fixes and optimizations
+
+License
+---------------------
+Distributed under the [MIT software license](http://www.opensource.org/licenses/mit-license.php).
