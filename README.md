@@ -1,3 +1,5 @@
+# This project is no longer maintained and is here for archival purposes only. See [NavPay](https://github.com/Encrypt-S/NavPay) for our new mobile wallet 
+
 Coinomi Wallet
 ===============
 
